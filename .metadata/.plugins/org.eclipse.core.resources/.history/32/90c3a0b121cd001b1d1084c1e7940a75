@@ -1,0 +1,16 @@
+
+import java.awt.*;
+
+public class OutlinedOvalShape implements GraphicsShape {
+	
+	
+	
+	
+    @Override
+    public void drawIt(Graphics g,int x1, int y1, int x2, int y2) {
+       g.drawLine(x1,y1,x2,y2);
+ 	   Color  red  = new Color(255, 0, 0);
+ 	   g.setColor(red);
+ 	   System.out.println("da");
+    }
+}

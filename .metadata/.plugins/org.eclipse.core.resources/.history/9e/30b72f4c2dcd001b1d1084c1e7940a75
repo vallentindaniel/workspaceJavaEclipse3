@@ -1,0 +1,15 @@
+
+import java.awt.*;
+
+public class OutlinedRectangleShape implements GraphicsShape{
+	
+	private int x, y, width, height;
+	
+
+	
+	
+    @Override
+    public void drawIt(Graphics g) {
+
+    }
+}

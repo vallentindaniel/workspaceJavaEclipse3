@@ -1,0 +1,32 @@
+2021-01-13 15:27:25,264 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-01-14 16:20:15,593 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-14 17:08:25,281 [main] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: E:\workspaceJavaEclipse3\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2021-01-14 17:08:25,898 [Worker-47: Queuing new CSS Event...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: E:\workspaceJavaEclipse3\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2021-01-14 18:21:00,876 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-01-15 11:31:57,076 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-01-15 20:40:15,492 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-15 20:43:40,850 [main] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: E:\workspaceJavaEclipse3\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2021-01-15 20:43:41,493 [Worker-1: Queuing new CSS Event...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: E:\workspaceJavaEclipse3\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2021-01-15 20:48:01,680 [Worker-17: Queuing new CSS Event...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: E:\workspaceJavaEclipse3\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2021-01-15 22:19:52,453 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-01-15 23:46:50,945 [main] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: E:\workspaceJavaEclipse3\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2021-01-15 23:46:51,629 [Worker-39: Queuing new CSS Event...] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: E:\workspaceJavaEclipse3\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2021-01-16 12:24:17,686 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-01-16 19:45:34,170 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-01-17 11:31:19,633 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-17 11:31:20,191 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2021-01-17 11:49:07,132 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-18 16:46:57,567 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-19 10:27:57,499 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-01-19 11:17:07,360 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-01-20 08:49:50,391 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-20 12:04:56,445 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-01-20 14:53:46,225 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-01-21 17:16:27,409 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-22 17:15:13,774 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-01-24 17:58:30,092 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-28 16:14:29,663 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-03-07 20:36:05,585 [Worker-12: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-06-09 17:13:50,789 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-06-14 17:02:55,914 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-06-14 21:47:04,877 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
